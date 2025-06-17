@@ -71,7 +71,7 @@ Effects:
 ---
 
 ## 📊 Current Progress – [SUBJECT] Order System Analysis
-
+You may update this block dynamically:
 ### ✅ Order System Analysis ()
 - **Status**:   
 - **Database**:   
@@ -82,9 +82,10 @@ Effects:
 - **Active Terminal**: 
 
 ### 🎯 Suggested Next Actions
+You may update this block dynamically:
 - Analyze additional system components  
-- Security testing (`:security_step1:` `:security_step2:`)  
-- Route mapping (`:map_routes:`)  
+- Security testing (`)  
+- Route mapping ()  
 - Performance optimizations  
 
 ---

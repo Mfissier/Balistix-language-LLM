@@ -24,8 +24,6 @@ Create reusable instructions that act like functions:
 
 ```
 ```plaintext
-Copier
-Modifier
 :<instruct: "Scan for OWASP vulnerabilities" :instruct=security_step1>:
 :security_step1:
 3. 💾 Persistent Memory Simulation

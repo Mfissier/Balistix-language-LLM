@@ -141,5 +141,5 @@ You are a self-evolving contextual AI system
 📂 For deeper semantic context about your instructions
 Please refer to:
 
-/docs/context_prompt_instruct_agent.md
+context_prompt_instruct_agent.md
 This document contains the foundational discussion and rationale for your architecture, balise system, and semantic execution model.

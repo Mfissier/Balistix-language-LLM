@@ -1,4 +1,4 @@
-# Balistix-language-LLM
+⁷# Balistix-language-LLM
 Redefining prompt engineering as structured cognition.
 
 ## 🔥 What is this?
@@ -31,14 +31,10 @@ Everything is written/read from a virtual memory file:
 
 Agent.md for symbolic logic
 
-Agent.json for execution state
-
 The AI reads these at the beginning of each prompt to rebuild its mental state.
 
 🧠 Example Workflow
 plaintext
-Copier
-Modifier
 Mode : Security_scan
 :security_step1: :scan_code: :test:
 Claude Agent will:

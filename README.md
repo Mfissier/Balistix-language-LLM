@@ -22,7 +22,8 @@ They act as **compiled instructions** in the Claude reasoning process.
 2. ⚙️ Instructions (:instruct:)
 Create reusable instructions that act like functions:
 
-plaintext
+```
+```plaintext
 Copier
 Modifier
 :<instruct: "Scan for OWASP vulnerabilities" :instruct=security_step1>:
@@ -80,3 +81,4 @@ Instructions → Modular intelligence
 🧑‍💻 Author
 Created by Kililig – inspired by the need for adaptive reasoning and modular task memory in AI systems.
 
+```

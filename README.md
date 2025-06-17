@@ -14,7 +14,6 @@ It transforms flat prompt writing into **contextual logic flow**, **persistent m
 Each `:balise:` triggers a specific behavior.  
 They act as **compiled instructions** in the Claude reasoning process.
 
-Example:
 
 ```plaintext
 :see_code:     → Analyze repo before coding

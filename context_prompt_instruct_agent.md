@@ -133,10 +133,3 @@ Créer une intelligence artificielle (ex: Claude) qui ne fonctionne plus uniquem
 
 ---
 
-## ✅ PROCHAINE ÉTAPE
-
-Ce système est désormais formalisé.
-
-> Prochaine action logique : **formuler le prompt d’activation Claude** qui charge ce système balistique comme contexte exécutable natif (chat + code).
-
-Souhaites-tu que je le
